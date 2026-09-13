@@ -6,7 +6,7 @@ import { useCartStore } from '@/stores/cart-store';
 
 export function MobileNav() {
   const pathname = usePathname();
-  const { itemCount } = useCartStore((state) => ({ itemCount: state.items.length }));
+  const itemCount = useCartStore((state) => state.items.length);
 
   const navItems = [
     { icon: Home, label: 'Home', href: '/' },

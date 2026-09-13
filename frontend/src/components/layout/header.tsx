@@ -9,8 +9,9 @@ import { Button } from '@/components/ui/button';
 import { Input } from '@/components/ui/input';
 
 export function Header() {
-  const { itemCount } = useCartStore((state) => ({ itemCount: state.items.length }));
-  const { city, area } = useLocationStore();
+  const itemCount = useCartStore((state) => state.items.length);
+  const city = useLocationStore((state) => state.city);
+  const area = useLocationStore((state) => state.area);
 
   return (
     <header className="sticky top-0 z-50 w-full border-b bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60">
