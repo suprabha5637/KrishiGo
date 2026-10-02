@@ -1,0 +1,43 @@
+{
+  "compilerOptions": {
+    "tsBuildInfoFile": "./node_modules/.tmp/tsconfig.app.tsbuildinfo",
+    "target": "es2023",
+    "lib": ["ES2023", "DOM"],
+    "module": "esnext",
+    "types": ["vite/client"],
+    "allowArbitraryExtensions": true,
+    "skipLibCheck": true,
+
+    /* Bundler mode */
+    "moduleResolution": "bundler",
+    "allowImportingTsExtensions": true,
+    "verbatimModuleSyntax": false,
+    "moduleDetection": "force",
+    "noEmit": true,
+    "jsx": "react-jsx",
+
+    /* Linting */
+    "noUnusedLocals": false,
+    "noUnusedParameters": false,
+    "erasableSyntaxOnly": false,
+    "noFallthroughCasesInSwitch": true,
+
+    /* Path Aliases — allows clean imports throughout the project */
+    "paths": {
+      "@/*":                    ["./src/*"],
+      "@/ecommerce/*":          ["./src/components/ecommerce/*"],
+      "@/farmer/*":             ["./src/components/farmer/*"],
+      "@/auth/*":               ["./src/components/auth/*"],
+      "@/common/*":             ["./src/components/common/*"],
+      "@/pages/ecommerce/*":    ["./src/pages/krishigo/*"],
+      "@/pages/farmer/*":       ["./src/pages/farmer/*"],
+      "@/services/*":           ["./src/services/*"],
+      "@/hooks/*":              ["./src/hooks/*"],
+      "@/context/*":            ["./src/context/*"],
+      "@/types/*":              ["./src/types/*"],
+      "@/config/*":             ["./src/config/*"],
+      "@/lib/*":                ["./src/lib/*"]
+    }
+  },
+  "include": ["src"]
+}
