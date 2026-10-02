@@ -1,0 +1,1 @@
+export { PromoCardsRow } from './PromoCardsRow';

@@ -64,3 +64,46 @@ yarn-error.log*
 
 # Alembic
 backend/alembic/versions/__pycache__/
+
+# Environment & secrets
+.env
+.env.*
+!.env.example
+
+# Google / Firebase credentials
+service-account.json
+**/service-account.json
+firebase-adminsdk*.json
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Dependencies
+node_modules/
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Build output
+dist/
+build/
+coverage/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Google / Firebase credentials
+service-account.json
+**/service-account.json
+firebase-adminsdk*.json
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
