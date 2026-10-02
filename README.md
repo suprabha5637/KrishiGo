@@ -1,6 +1,5 @@
-Absolutely — here is the **entire README in one single copy-paste block**. Copy everything inside the block and paste it directly into `README.md`.
+Copy **everything below** directly into your `README.md`. Do **not** copy any extra backticks before or after it.
 
-````markdown
 <div align="center">
 
 # 🌾 KrishiGo
@@ -17,12 +16,12 @@ Absolutely — here is the **entire README in one single copy-paste block**. Cop
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Suprabha5637-181717?style=for-the-badge&logo=github)](https://github.com/suprabha5637)
-[![Repository](https://img.shields.io/badge/Repository-KrishiGo-0F9D58?style=for-the-badge&logo=github)](https://github.com/suprabha5637/KrishiGo)
-[![Frontend](https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-Enabled-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Python](https://img.shields.io/badge/Python-Backend-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![AI](https://img.shields.io/badge/AI-Gemini-4285F4?style=for-the-badge&logo=google)](https://ai.google.dev/)
+[![GitHub](https://img.shields.io/badge/GitHub-Suprabha5637-181717?style=for-the-badge\&logo=github)](https://github.com/suprabha5637)
+[![Repository](https://img.shields.io/badge/Repository-KrishiGo-0F9D58?style=for-the-badge\&logo=github)](https://github.com/suprabha5637/KrishiGo)
+[![Frontend](https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)](https://react.dev/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-Enabled-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)](https://www.typescriptlang.org/)
+[![Python](https://img.shields.io/badge/Python-Backend-3776AB?style=for-the-badge\&logo=python\&logoColor=white)](https://www.python.org/)
+[![AI](https://img.shields.io/badge/AI-Gemini-4285F4?style=for-the-badge\&logo=google)](https://ai.google.dev/)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](#-license)
 
 <br/>
@@ -39,26 +38,25 @@ Absolutely — here is the **entire README in one single copy-paste block**. Cop
 
 The platform combines two major experiences:
 
-> 👨‍🌾 **Farmer Intelligence**  
+> 👨‍🌾 **Farmer Intelligence**
 > 🛒 **Agri-Commerce**
 
 KrishiGo is designed around the idea that agriculture should not be treated as a collection of disconnected tools.
 
-Instead, farmers should have access to a unified digital environment where they can understand:
+The platform brings together:
 
-- 🌦️ Weather and climate conditions
-- 🌱 Crop planning
-- 🦠 Crop health and disease
-- 🌍 Soil and field conditions
-- 💧 Water and irrigation
-- 🚜 Farm management
-- 💰 Market prices and profitability
-- 📡 Farm monitoring
-- 🧠 AI-powered agricultural assistance
-- 📚 Agricultural learning
-- 🛒 Agricultural products and everyday consumer products
-
-At the same time, consumers can access a modern commerce experience designed around agricultural products, fresh produce, groceries, essentials, and other categories.
+* 🌦️ Weather & Climate Intelligence
+* 🌱 Crop Planning
+* 🦠 Crop Health & Disease
+* 🌍 Soil & Field Intelligence
+* 💧 Water & Irrigation
+* 🚜 Farm Management
+* 💰 Market Price & Profit
+* 📡 Farm Monitoring
+* 🛠️ Farm Services
+* 🤖 AI Farm Copilot
+* 📚 Agricultural Learning
+* 🛒 Hyperlocal Agri-Commerce
 
 ---
 
@@ -82,72 +80,44 @@ HARVEST
 SELL
   ↓
 CONNECT WITH CONSUMERS
-````
-
-The long-term vision is to bridge the gap between:
-
-```text
-                    ┌─────────────────────┐
-                    │      KrishiGo       │
-                    │  Digital Agriculture│
-                    └──────────┬──────────┘
-                               │
-              ┌────────────────┴────────────────┐
-              │                                 │
-              ▼                                 ▼
-     ┌─────────────────┐              ┌─────────────────┐
-     │ Farmer Platform │              │   E-Commerce    │
-     └────────┬────────┘              └────────┬────────┘
-              │                                │
-       ┌──────┼───────┐                 ┌──────┼───────┐
-       ▼      ▼       ▼                 ▼      ▼       ▼
-    Weather  Crops   Soil            Fresh   Grocery  Essentials
-       │      │       │              Produce  Products
-       └──────┼───────┘
-              ▼
-        AI Farm Copilot
 ```
+
+The long-term vision is to bridge the gap between agricultural intelligence and commerce.
 
 ---
 
 # ✨ Core Platform
 
-KrishiGo consists of two major experiences.
+KrishiGo consists of two major experiences:
 
-## 👨‍🌾 1. Farmer Intelligence
+## 👨‍🌾 Farmer Intelligence
 
-A dedicated agricultural intelligence platform built for farmers.
+A dedicated agricultural intelligence platform designed around the needs of farmers.
 
-### Farmer Dashboard
+### Farmer Modules
 
-The Farmer experience provides a centralized dashboard for managing and understanding agricultural operations.
-
-### Major Modules
-
-| Module                   | Purpose                                       |
-| ------------------------ | --------------------------------------------- |
-| 🏠 Dashboard             | Central farm overview                         |
-| 🌦️ Weather & Climate    | Weather intelligence and forecast information |
-| 🌱 Crop Planner          | Crop planning and agricultural scheduling     |
-| 🦠 Crop Health & Disease | Crop health and disease-related intelligence  |
-| 🌍 Soil & Field          | Soil and field information                    |
-| 💧 Water & Irrigation    | Irrigation and water-management assistance    |
-| 🚜 Farm Management       | Farm operations and management                |
-| 💰 Market Price & Profit | Market and profitability intelligence         |
-| 📡 Farm Monitoring       | Farm monitoring and observation               |
-| 🛠️ Farm Services        | Agricultural services                         |
-| 🤖 AI Farm Copilot       | AI-powered agricultural assistant             |
-| ⚙️ Settings              | Platform configuration                        |
+| Module                   | Purpose                                    |
+| ------------------------ | ------------------------------------------ |
+| 🏠 Dashboard             | Central farm overview                      |
+| 🌦️ Weather & Climate    | Weather intelligence and forecasts         |
+| 🌱 Crop Planner          | Crop planning and scheduling               |
+| 🦠 Crop Health & Disease | Crop health and disease intelligence       |
+| 🌍 Soil & Field          | Soil and field information                 |
+| 💧 Water & Irrigation    | Irrigation and water-management assistance |
+| 🚜 Farm Management       | Farm operations                            |
+| 💰 Market Price & Profit | Market and profitability intelligence      |
+| 📡 Farm Monitoring       | Farm monitoring                            |
+| 🛠️ Farm Services        | Agricultural services                      |
+| 🤖 AI Farm Copilot       | AI-powered agricultural assistant          |
+| ⚙️ Settings              | Platform configuration                     |
 
 ---
 
 # 🤖 AI Farm Copilot
 
-The **AI Farm Copilot** is the intelligence layer of the Farmer experience.
+The **AI Farm Copilot** provides an AI-powered conversational interface for agricultural assistance.
 
-It is designed to provide an AI-driven conversational interface for agricultural assistance while maintaining **KrishiGo branding and product identity**.
-
-The AI layer can be used as an interface for agricultural questions and decision support.
+The architecture allows KrishiGo to use an external AI model while maintaining the **KrishiGo product identity and user experience**.
 
 ### AI Architecture
 
@@ -161,47 +131,48 @@ KrishiGo AI Farm Copilot
 Application Backend
    │
    ▼
-AI Model / Gemini API
+Gemini API
    │
    ▼
-Response
+AI Response
    │
    ▼
 KrishiGo Interface
 ```
 
-The AI model powers intelligence behind the experience while the user interacts with the **KrishiGo interface**.
-
 ---
 
 # 🌦️ Weather & Climate Intelligence
 
-Weather is one of the most important external factors affecting agricultural operations.
+Weather is one of the most important external factors affecting agriculture.
 
-KrishiGo's Farmer platform includes a dedicated weather and climate experience designed to provide useful environmental information for agricultural planning.
+KrishiGo provides a dedicated weather and climate experience designed to support agricultural planning.
 
-Potential agricultural decisions influenced by weather include:
+The platform can work with information such as:
 
-* 🌱 Crop planning
-* 💧 Irrigation planning
-* 🌧️ Rain-related decisions
-* ☀️ Heat conditions
-* 🌬️ Wind conditions
 * 🌡️ Temperature
+* 🌧️ Precipitation
 * 💧 Humidity
-* ☀️ UV conditions
-* ☁️ Cloud conditions
-* 🌫️ Air quality
+* 🌬️ Wind
+* ☀️ UV Index
+* ☁️ Cloud Cover
+* 🌫️ Air Quality
+* 📅 Forecast Information
 
-The weather experience is designed around turning raw weather information into information that is easier for farmers to understand.
+Weather intelligence can support decisions related to:
+
+* Crop planning
+* Irrigation
+* Field activities
+* Rain-sensitive operations
+* Heat conditions
+* Agricultural scheduling
 
 ---
 
 # 🌱 Crop Intelligence
 
 KrishiGo provides a dedicated environment for crop-related planning and management.
-
-The platform architecture is designed to support:
 
 ```text
 Crop Selection
@@ -223,9 +194,9 @@ Market Intelligence
 
 # 🦠 Crop Health & Disease
 
-The Crop Health & Disease section provides an agricultural intelligence layer focused on crop condition and disease-related information.
+The Crop Health & Disease module provides an agricultural intelligence layer focused on crop condition and disease-related workflows.
 
-The platform can serve as a foundation for future computer-vision-based agricultural workflows, including:
+The platform architecture provides a foundation for:
 
 * Plant image analysis
 * Disease identification
@@ -237,7 +208,7 @@ The platform can serve as a foundation for future computer-vision-based agricult
 
 # 🌍 Soil & Field Intelligence
 
-The Soil & Field section is designed to centralize information related to:
+The Soil & Field module centralizes information related to:
 
 * Soil condition
 * Field information
@@ -246,31 +217,29 @@ The Soil & Field section is designed to centralize information related to:
 * Crop suitability
 * Agricultural planning
 
-This provides the foundation for future data-driven soil intelligence systems.
-
 ---
 
 # 💧 Water & Irrigation
 
-Efficient water management is a critical part of modern agriculture.
+Efficient water management is an important part of modern agriculture.
 
-KrishiGo's Water & Irrigation module is designed to help organize irrigation-related information and agricultural decisions.
+The Water & Irrigation module provides a foundation for:
 
-The platform can serve as a foundation for future integrations with:
+* Irrigation planning
+* Water-management workflows
+* Soil moisture integration
+* Weather-aware irrigation
+* Smart irrigation systems
 
-* Soil moisture sensors
-* IoT systems
-* Weather data
-* Irrigation controllers
-* Field monitoring systems
+Future integrations can include IoT sensors and automated irrigation systems.
 
 ---
 
 # 🚜 Farm Management
 
-The Farm Management module provides a centralized space for agricultural operations.
+The Farm Management module provides a centralized environment for agricultural operations.
 
-The architecture is designed to support future management of:
+The architecture can support:
 
 * Farms
 * Fields
@@ -278,7 +247,7 @@ The architecture is designed to support future management of:
 * Agricultural activities
 * Farm operations
 * Monitoring information
-* Production-related information
+* Production information
 
 ---
 
@@ -286,7 +255,7 @@ The architecture is designed to support future management of:
 
 Agriculture is not only about production.
 
-Profitability also depends on:
+Profitability depends on multiple factors:
 
 ```text
 Production
@@ -302,15 +271,15 @@ Distribution
 Farm Profitability
 ```
 
-KrishiGo includes a dedicated Market Price & Profit section to provide a foundation for agricultural market intelligence and profitability-oriented workflows.
+KrishiGo includes a dedicated Market Price & Profit section to provide a foundation for market intelligence and profitability-oriented workflows.
 
 ---
 
 # 📡 Farm Monitoring
 
-The Farm Monitoring experience is designed to provide centralized visibility into farm operations.
+The Farm Monitoring module is designed to provide centralized visibility into farm operations.
 
-The platform architecture can be extended toward:
+The architecture can be extended toward:
 
 * Farm cameras
 * CCTV
@@ -319,29 +288,25 @@ The platform architecture can be extended toward:
 * Field monitoring
 * Remote observation
 
-This creates a foundation for future smart-farming integrations.
-
 ---
 
-# 🛒 2. KrishiGo E-Commerce
+# 🛒 KrishiGo E-Commerce
 
 The second major experience is the **KrishiGo E-Commerce platform**.
 
 It provides a modern commerce interface connecting customers with products across multiple categories.
 
-The E-Commerce interface follows a clean:
+The interface follows the KrishiGo visual identity with a clean:
 
-```text
-White + Green
-```
+**White + Green**
 
-KrishiGo visual identity.
+design language.
 
 ---
 
 # 🛍️ E-Commerce Categories
 
-KrishiGo's commerce platform includes categories such as:
+KrishiGo's commerce platform includes:
 
 * 🥬 Fresh Vegetables
 * 🍎 Fresh Fruits
@@ -367,11 +332,9 @@ KrishiGo's commerce platform includes categories such as:
 
 # 🏪 E-Commerce Experience
 
-The E-Commerce dashboard is designed around a modern desktop-first shopping experience.
+The E-Commerce dashboard provides:
 
 ### Header
-
-The platform provides:
 
 * KrishiGo branding
 * Search
@@ -384,28 +347,46 @@ The platform provides:
 
 ### Navigation
 
-The commerce sidebar provides access to the major product categories.
+* Home
+* All Categories
+* Fresh Vegetables
+* Fresh Fruits
+* Dairy & Milk
+* Grocery & Staples
+* Snacks & Beverages
+* Meat Egg Seafood
+* Bakery & Sweets
+* Personal Care
+* Home Essentials
+* Seeds & Fertilizers
+* Farm Tools
+* Organic Products
+* Study Essentials
+* Clothing & Fashion
+* Pharmacy & Health
+* Beauty & Wellness
+* Baby Care
+* Pet Care
+* Offers & Deals
 
 ### Homepage
 
-The homepage contains:
-
 * 🌾 Hero section
 * 🎁 Promotional cards
-* 🛡️ Trust/benefit strip
+* 🛡️ Trust strip
 * 🥬 Fresh Vegetables
 * 📚 Study Essentials
 * 👕 Clothing & Fashion
 * 💊 Pharmacy & Health
 * 🛍️ Product cards
-* 💰 Discounts
-* ➕ Add-to-cart interactions
+* 💰 Offers
+* 🛒 Shopping interactions
 
 ---
 
 # 🔗 Farmer ↔ E-Commerce Ecosystem
 
-KrishiGo is designed to bring agricultural intelligence and commerce into one ecosystem.
+KrishiGo brings agricultural intelligence and commerce into one ecosystem.
 
 ```text
                     KRISHIGO
@@ -415,9 +396,7 @@ KrishiGo is designed to bring agricultural intelligence and commerce into one ec
           ▼                         ▼
      👨‍🌾 FARMER                🛒 E-COMMERCE
           │                         │
-          │                         │
     Farm Intelligence          Products
-          │                         │
           │                         │
           └────────────┬────────────┘
                        │
@@ -426,13 +405,11 @@ KrishiGo is designed to bring agricultural intelligence and commerce into one ec
                   Ecosystem
 ```
 
-This architecture allows KrishiGo to evolve beyond a standalone agriculture dashboard or standalone shopping platform.
-
 ---
 
 # 🧠 Platform Intelligence
 
-KrishiGo is designed around multiple intelligence layers.
+KrishiGo is designed around multiple intelligence layers:
 
 ```text
 ┌──────────────────────────────────────┐
@@ -495,7 +472,7 @@ KrishiGo is designed around multiple intelligence layers.
 * TypeScript
 * Vite
 * Tailwind CSS
-* Modern component-based architecture
+* Component-based architecture
 * Responsive UI
 * Modular page architecture
 
@@ -510,15 +487,11 @@ KrishiGo is designed around multiple intelligence layers.
 ## AI
 
 * Gemini API
-* AI Farm Copilot architecture
+* AI Farm Copilot
 * AI-assisted agricultural workflows
-* Future ML/computer-vision expansion
+* Future ML and computer-vision expansion
 
-## Database
-
-The project architecture supports database-backed application services and local development databases.
-
-## Development Tools
+## Development
 
 * Git
 * GitHub
@@ -585,9 +558,7 @@ KrishiGo/
 
 # 🎨 UI & Design Philosophy
 
-KrishiGo follows a product-first interface philosophy.
-
-### Farmer
+## Farmer
 
 The Farmer interface focuses on:
 
@@ -601,7 +572,7 @@ Agricultural Intelligence
 Fast Navigation
 ```
 
-### E-Commerce
+## E-Commerce
 
 The E-Commerce interface focuses on:
 
@@ -617,31 +588,29 @@ Products
 Shopping
 ```
 
-The two experiences have different purposes while remaining part of the same KrishiGo ecosystem.
-
 ---
 
 # 🎯 Design Principles
 
-### 1. Farmer First
+### Farmer First
 
-The Farmer platform should make agricultural information understandable and actionable.
+Agricultural information should be understandable and accessible.
 
-### 2. Modular Architecture
+### Modular Architecture
 
-Each major capability is isolated into reusable components and pages.
+Major capabilities are organized into reusable components and pages.
 
-### 3. AI-Native
+### AI-Native
 
-AI is integrated as a platform capability rather than treated as a standalone chatbot.
+AI is integrated into the platform rather than being treated only as a standalone chatbot.
 
-### 4. Scalable
+### Scalable
 
-The architecture is designed to allow future expansion into IoT, computer vision, satellite data, and advanced agricultural analytics.
+The architecture provides a foundation for future IoT, computer vision, satellite data, and advanced analytics.
 
-### 5. Product-Oriented UX
+### Product-Oriented UX
 
-The application is structured as a real product rather than a collection of disconnected demonstrations.
+KrishiGo is structured as a unified product ecosystem.
 
 ---
 
@@ -649,7 +618,7 @@ The application is structured as a real product rather than a collection of disc
 
 ## Prerequisites
 
-Make sure you have installed:
+Install:
 
 * Node.js
 * npm
@@ -671,11 +640,6 @@ git --version
 
 ```bash
 git clone https://github.com/suprabha5637/KrishiGo.git
-```
-
-Enter the project:
-
-```bash
 cd KrishiGo
 ```
 
@@ -683,61 +647,25 @@ cd KrishiGo
 
 # 🎨 Frontend Setup
 
-Navigate to the frontend:
-
 ```bash
 cd frontend
-```
-
-Install dependencies:
-
-```bash
 npm install
-```
-
-Create the environment file:
-
-```bash
 cp .env.example .env
-```
-
-Configure the required environment variables inside `.env`.
-
-Start the development server:
-
-```bash
 npm run dev
 ```
 
-The terminal will provide the local development URL.
+Configure the required environment variables inside `.env`.
 
 ---
 
 # 🐍 Backend Setup
 
-Open a new terminal.
-
-Navigate to the backend:
+Open a new terminal:
 
 ```bash
 cd backend
-```
-
-Create a Python virtual environment:
-
-```bash
 python3 -m venv .venv
-```
-
-Activate it on macOS/Linux:
-
-```bash
 source .venv/bin/activate
-```
-
-Install dependencies:
-
-```bash
 pip install -r requirements.txt
 ```
 
@@ -765,19 +693,6 @@ Use:
 
 as the safe configuration template.
 
-Typical configuration may include variables for:
-
-```text
-AI / Gemini
-API configuration
-Database
-Weather services
-Authentication
-External services
-```
-
-### Security Rule
-
 Never commit:
 
 ```text
@@ -789,13 +704,11 @@ firebase-adminsdk*.json
 *.sqlite3
 ```
 
-These files are intentionally excluded through `.gitignore`.
-
 ---
 
 # 🧪 Development
 
-Frontend:
+### Frontend
 
 ```bash
 cd frontend
@@ -803,7 +716,7 @@ npm install
 npm run dev
 ```
 
-Backend:
+### Backend
 
 ```bash
 cd backend
@@ -816,16 +729,9 @@ pip install -r requirements.txt
 
 # 🏗️ Production Build
 
-Build the frontend:
-
 ```bash
 cd frontend
 npm run build
-```
-
-Preview the production build locally:
-
-```bash
 npm run preview
 ```
 
@@ -834,8 +740,6 @@ npm run preview
 # 🐳 Docker
 
 KrishiGo is structured to support containerized development and deployment.
-
-A typical container architecture can be represented as:
 
 ```text
                 ┌───────────────────┐
@@ -858,8 +762,6 @@ A typical container architecture can be represented as:
 ---
 
 # ☁️ Deployment Architecture
-
-KrishiGo can be deployed using a modern cloud architecture.
 
 ```text
                      Internet
@@ -886,43 +788,21 @@ KrishiGo can be deployed using a modern cloud architecture.
 
 # 📸 Screenshots
 
-> Add your final application screenshots inside the repository and update the paths below.
-
-## 👨‍🌾 Farmer Dashboard
-
-```text
-docs/screenshots/farmer-dashboard.png
-```
-
-## 🌦️ Weather & Climate
-
-```text
-docs/screenshots/weather.png
-```
-
-## 🤖 AI Farm Copilot
-
-```text
-docs/screenshots/ai-copilot.png
-```
-
-## 🛒 E-Commerce Dashboard
-
-```text
-docs/screenshots/ecommerce-dashboard.png
-```
-
-## 🥬 Product Experience
-
-```text
-docs/screenshots/products.png
-```
+Add your final screenshots to the repository and reference them here.
 
 Example:
 
 ```markdown
 ![KrishiGo Farmer Dashboard](docs/screenshots/farmer-dashboard.png)
 ```
+
+Suggested screenshots:
+
+* 👨‍🌾 Farmer Dashboard
+* 🌦️ Weather & Climate
+* 🤖 AI Farm Copilot
+* 🛒 E-Commerce Dashboard
+* 🥬 Product Experience
 
 ---
 
@@ -973,13 +853,11 @@ KRISHIGO
 
 # 🔮 Future Expansion
 
-KrishiGo is designed with expansion in mind.
-
 ## 🤖 Advanced AI
 
 * AI agricultural recommendations
-* Advanced conversational agriculture
 * Personalized farm intelligence
+* Advanced conversational agriculture
 * AI-driven decision support
 
 ## 📡 IoT
@@ -987,7 +865,7 @@ KrishiGo is designed with expansion in mind.
 * Soil moisture sensors
 * Weather stations
 * Smart irrigation
-* Farm environmental sensors
+* Environmental sensors
 * Real-time field monitoring
 
 ## 🛰️ Satellite Intelligence
@@ -1055,8 +933,6 @@ KrishiGo is designed with expansion in mind.
 
 # 📈 Project Goals
 
-KrishiGo is being developed with several major goals:
-
 * 🌾 Digitize agricultural workflows
 * 🤖 Make AI accessible to farmers
 * 🌦️ Improve weather-based agricultural planning
@@ -1070,8 +946,6 @@ KrishiGo is being developed with several major goals:
 ---
 
 # 🧪 Code Quality & Engineering
-
-The project follows a modular engineering approach.
 
 ### Frontend
 
@@ -1103,9 +977,7 @@ This separation allows individual modules to evolve independently.
 
 # 🔐 Security
 
-Security is an important part of the project architecture.
-
-KrishiGo follows these principles:
+KrishiGo follows security-focused development practices:
 
 * Never commit API keys
 * Never commit service-account credentials
@@ -1119,32 +991,22 @@ KrishiGo follows these principles:
 
 # 🌍 Social & Environmental Impact
 
-Agricultural technology can contribute to more efficient resource usage and better access to information.
-
 KrishiGo is designed around areas such as:
 
 🌱 Smarter farming
 💧 Better water management
 🌦️ Weather-aware decisions
 📊 Data-driven agriculture
-🛒 Better agricultural commerce
+🛒 Agricultural commerce
 🤖 Accessible AI assistance
 
 ---
 
 # 💡 Why KrishiGo?
 
-Traditional agricultural technology solutions are often fragmented.
+Agricultural technology can become fragmented when weather, crop information, market intelligence, farm management, and commerce are provided through separate systems.
 
-One application may provide weather.
-
-Another may provide crop information.
-
-Another may provide market prices.
-
-Another may provide commerce.
-
-KrishiGo is designed around a different approach:
+KrishiGo is designed around a unified ecosystem:
 
 ```text
                   ONE ECOSYSTEM
@@ -1161,13 +1023,11 @@ KrishiGo is designed around a different approach:
                     KRISHIGO
 ```
 
-The goal is to create a unified digital agricultural ecosystem.
-
 ---
 
 # 📊 Repository
 
-### GitHub Repository
+### GitHub
 
 [https://github.com/suprabha5637/KrishiGo](https://github.com/suprabha5637/KrishiGo)
 
@@ -1197,44 +1057,33 @@ The goal is to create a unified digital agricultural ecosystem.
 
 Contributions, suggestions, improvements, and ideas are welcome.
 
-### Basic Contribution Workflow
-
 ```bash
 # Fork the repository
 
-# Clone your fork
 git clone https://github.com/YOUR_USERNAME/KrishiGo.git
 
-# Create a branch
 git checkout -b feature/your-feature
 
-# Make your changes
-
-# Stage changes
 git add -A
 
-# Commit
 git commit -m "Add your feature"
 
-# Push
 git push origin feature/your-feature
-
-# Open a Pull Request
 ```
+
+Then open a Pull Request.
 
 ---
 
 # ⭐ Support the Project
 
-If you find KrishiGo interesting or useful:
+If you find KrishiGo interesting:
 
 ⭐ Star the repository
 🍴 Fork the project
 🐛 Report issues
 💡 Suggest improvements
 🤝 Contribute
-
-Every contribution helps the project grow.
 
 ---
 
@@ -1247,8 +1096,6 @@ See the `LICENSE` file for details.
 ---
 
 <div align="center">
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:15803D,50:16A34A,100:0F9D58&height=120&section=footer" width="100%"/>
 
@@ -1263,4 +1110,3 @@ See the `LICENSE` file for details.
 **Made with ❤️ and ☕ by Suprabha Kundu**
 
 </div>
-```
